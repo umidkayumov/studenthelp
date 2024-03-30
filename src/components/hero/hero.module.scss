@@ -1,0 +1,22 @@
+.hero_bg{
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  width: 100vw;
+  height: 100vh;
+  background: url("/assets/header/bg.png");
+  background-size: cover;
+  background-position: center;
+}
+.hero_bg_bottom{
+  position: absolute;
+  bottom: -430px;
+  left: 0;
+  z-index: -1;
+  width: 100vw;
+  height: 100vh;
+  background: url("/assets/header/bg-bottom.png");
+  background-size: cover;
+  background-position: center;
+}
