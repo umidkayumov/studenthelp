@@ -1,0 +1,21 @@
+.header_container {
+    display: flex;
+    align-items: center;
+}
+
+.socialmedia__list {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.header_nav__list {
+    display: flex;
+    list-style-type: none;
+    color: #7A7A7A;
+
+    li {
+        margin-right: 20px;
+    }
+}
